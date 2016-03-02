@@ -1,0 +1,28 @@
+name: coastalmassageandwellnes.oi
+favicon: null
+layout_spectrum: 0.22051172074861825
+typography_spectrum: 0.48315768083557487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7399584699887782
+  lightness: 0.13979122857563198
+  saturation: 0.5116392651107162
+  rhythmicContrast: 0.0027493536472320557
+purpose: []
