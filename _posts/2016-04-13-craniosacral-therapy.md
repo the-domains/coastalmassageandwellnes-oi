@@ -1,30 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T18:52:30.390Z'
-dateModified: '2016-04-13T18:52:08.539Z'
+datePublished: '2016-04-13T19:00:37.470Z'
+dateModified: '2016-04-13T18:59:54.260Z'
 title: Craniosacral Therapy
 author: []
+sourcePath: _posts/2016-04-13-craniosacral-therapy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-craniosacral-therapy.md
-published: true
 url: craniosacral-therapy/index.html
 _type: Article
 
 ---
 **[Craniosacral Therapy][0]**
-
-**Craniosacral **
 
 This form of therapy takes special consideration of the
 head, spinal column, and sacrum.
@@ -50,8 +48,5 @@ neck and lower back pain are greatly eased through this work; people suffering
 from chronic pain often enjoy relief and higher levels of daily
 functioning.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f294b737-6321-4fcb-bb78-21c8ba57992e.jpg)
-
-  
-
 
 [0]: null
