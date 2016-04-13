@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T19:00:37.470Z'
-dateModified: '2016-04-13T18:59:54.260Z'
+datePublished: '2016-04-13T19:01:30.582Z'
+dateModified: '2016-04-13T19:00:46.180Z'
 title: Craniosacral Therapy
 author: []
 sourcePath: _posts/2016-04-13-craniosacral-therapy.md
