@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\"Earlier this year I had to undergo dental surgery. \_Dottie of Coastal Massage was able to use Craniosacral Therapy to really help me in the recovery and healing process. \_I saw Dottie for therapy leading up to and following the surgery. \_I also see Dottie for regular Cranio and Shiatsu work. \_Her massage office is local, which is convenient, but more importantly, her body work \_is quality and makes a huge difference in my health. \_Her Main Street location is a little small, but very comfortable!\" Emily F."
-datePublished: '2016-04-14T16:28:06.895Z'
-dateModified: '2016-04-14T16:27:20.958Z'
+datePublished: '2016-04-14T16:28:51.537Z'
+dateModified: '2016-04-14T16:28:11.439Z'
 title: What people are saying
 author: []
 sourcePath: _posts/2016-04-14-bottom-of-home-page.md
@@ -22,7 +22,7 @@ url: bottom-of-home-page/index.html
 _type: Article
 
 ---
-Client Quotes
+## What people are saying
 
 "Traveling I always have back trouble.  Coastal Massage, resolved the pain in one visit.  A great company!  I'll come back, if only for the massage and friendly atmosphere!" Jon T.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fd8659-53d1-42b5-a834-666f556b243e.jpg)
