@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-13T19:01:30.582Z'
-dateModified: '2016-04-13T19:00:46.180Z'
+datePublished: '2016-04-14T17:09:02.527Z'
+dateModified: '2016-04-14T17:00:34.488Z'
 title: Craniosacral Therapy
 author: []
 sourcePath: _posts/2016-04-13-craniosacral-therapy.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: craniosacral-therapy/index.html
-_type: Article
+_type: WebPage
 
 ---
 **[Craniosacral Therapy][0]**
