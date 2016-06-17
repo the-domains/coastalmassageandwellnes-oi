@@ -1,6 +1,6 @@
 name: coastalmassageandwellnes.oi
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7551
 typography_spectrum: 0.86187
 title: Coastal Massage and Wellness
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3c3c37'
     - '#2eb5ad'
     - '#a9a9a7'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 1
-  saturation: 0.5
+  saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []
