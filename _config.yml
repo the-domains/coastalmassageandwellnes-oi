@@ -1,20 +1,4 @@
-name: coastalmassageandwellnes.oi
-favicon: null
-layout_spectrum: 0.1407
 typography_spectrum: 0.86187
-title: Coastal Massage and Wellness
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,48 @@ color:
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1407
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ab4200-45ee-4dc6-a50d-95316439140b.png
+name: coastalmassageandwellnes.oi
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    id: 372aefc2-7ec3-4836-b227-49a46a0ef08b
+    type: content
+  - name: What is massage therapy?
+    id: dd70e928-ef75-46d2-81fb-8d969d697201
+    type: content
+  - name: Therapeutic Services
+    id: 66142e6c-caaf-4987-b6ee-ffeb5243ec62
+    type: content
+  - name: Resources
+    id: e2875644-962b-4eb0-8552-e72fe80426e0
+    type: content
+  - name: Fees
+    id: 474b99e5-42dc-4ad7-aa3a-32ff0a740422
+    type: content
+  - name: Contact
+    id: 82cffaf8-3d94-4115-a8d8-0f90562fb971
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b2d624a-927e-4853-b539-36264a84ebe7.png
+title: Coastal Massage and Wellness
+content: []
+description: Affordable  •  Effective  •  Comfortable  •  Friendly
+purpose:
+  - type: contact
+    url: 'tel:805.464.8972'
+    label: Call 805.464.8972
