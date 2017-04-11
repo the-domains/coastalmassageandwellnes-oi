@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-11T01:40:07.802Z'
+datePublished: '2017-04-11T04:21:12.179Z'
 sourcePath: _posts/2016-04-14-bottom-of-home-page.md
 inFeed: true
 authors: []
@@ -7,13 +7,13 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2017-04-11T01:40:06.943Z'
+dateModified: '2017-04-11T04:21:08.381Z'
 title: Welcome!
 publisher: {}
 description: >-
   At Coastal Massage and Wellness you will experience therapeutic Shiatsu
-  massage and Craniosacral Therapy. Though less well known, these comfortable
-  and effective approaches are fast becoming preferred choices for many. 
+  massage and Craniosacral Therapy.  Though less well known, these comfortable
+  and effective approaches are fast becoming preferred choices for many.
 inLanguage: null
 starred: true
 datePublishedOriginal: '2016-11-19T20:18:24.532Z'
@@ -22,9 +22,9 @@ _type: Blurb
 ---
 # **Welcome!**
 
-At **Coastal Massage and Wellness** you will experience therapeutic Shiatsu massage and Craniosacral Therapy. Though less well known, these comfortable and effective approaches are fast becoming preferred choices for many. 
+At **Coastal Massage and Wellness** you will experience therapeutic Shiatsu massage and Craniosacral Therapy. Though less well known, these comfortable and effective approaches are fast becoming preferred choices for many.
 
-Shiatsu includes slow, deep compressions as well as stretching the muscles producing long lasting relief. This muscle work is relaxing and pressure can vary according to client's preference. Shiatsu addresses muscle soreness, stiff neck/strain, headaches, spine and back issues, sciatica and other conditions.
+Shiatsu includes slow, deep compressions as well as stretches producing long lasting relief. This muscle work is relaxing and pressure can vary according to client's preference. Shiatsu addresses muscle soreness, stiff neck/strain, headaches, spine and back issues, sciatica and other conditions.
 
 Craniosacral Therapy is a gentle therapy, highly effective for pain related to chronic and acute conditions especially neck and back pain, TMJ syndrome, whiplash, and migraines.
 
