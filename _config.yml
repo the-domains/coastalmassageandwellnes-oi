@@ -22,7 +22,7 @@ analytics:
   twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ab4200-45ee-4dc6-a50d-95316439140b.png
-name: coastalmassageandwellnes.io
+name: coastalmassageandwellness.io
 cta:
   domain: null
   bucket: null
@@ -79,3 +79,4 @@ purpose:
   - type: contact
     url: 'tel:805.464.8972'
     label: Call 805.464.8972
+url: 'https://coastalmassageandwellness.io'
